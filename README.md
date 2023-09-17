@@ -1,3 +1,3 @@
-# PBI_Superstore-Sales
+# Power BI_Superstore-Sales
 [Updating]
 ## I. Introduction
