@@ -5,15 +5,13 @@
 
 Global Superstore Sales
 
-Dataset stores sales information of some products of a company worldwide
+Dataset stores sales information of some products of a company worldwide, include of 3 data tables:
 
-Consists of 3 data tables:
+- Table 1: Orders: Fact order
 
-Table 1: Orders: Fact order
+- Table 2: People: Information of Sales person
 
-Table 2: People: Information of Sales person
-
-Table 3: Returns: Information of Returned orders.
+- Table 3: Returns: Information of Returned orders.
 
 ### 2. Data dictionary
 - Dimension: Customer ID, Location, Market, Item Category, Order date, Shipping date, Return 
