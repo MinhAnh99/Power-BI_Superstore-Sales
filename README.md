@@ -27,7 +27,7 @@ Dataset stores sales information of some products of a company worldwide, includ
 ![Screenshot 2024-01-30 210001](https://github.com/MinhAnh99/PBI_Superstore-Sales/assets/74374068/cce78ab6-cf3e-4341-8f2e-0f2f1aae001b)
 
 #### Step 3 -  Ideate
-![Screenshot 2024-01-30 210304](https://github.com/MinhAnh99/PBI_Superstore-Sales/assets/74374068/4bbabfa1-b01c-4f03-9f14-2fc559208c44)
+![Screenshot 2024-01-30 210304](https://github.com/MinhAnh99/PBI_Superstore-Sales/assets/74374068/e6a87c51-ae86-4938-9756-4ffffea040b2)
 
 #### Step 4 -  Prototype
 ![Screenshot 2024-01-30 210317](https://github.com/MinhAnh99/PBI_Superstore-Sales/assets/74374068/0e777ced-06d6-4614-ab4c-07394f9704a5)
