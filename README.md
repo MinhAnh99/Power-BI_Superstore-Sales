@@ -19,3 +19,9 @@ Dataset stores sales information of some products of a company worldwide, includ
 - Determine potential items and markets before focusing on development. 
 - Business must understand the features of revenue and profit distribution to determine whether the company should promote a strong product to multiple markets or each market will have distinct outstanding products.
 
+## II. Applying design thinking
+**Step 1 - Empathize**
+![Screenshot 2024-01-30 205917](https://github.com/MinhAnh99/PBI_Superstore-Sales/assets/74374068/538641d4-d142-458b-9831-14e0211bf16a)
+**Step 2 - Define point of view**
+![Screenshot 2024-01-30 210001](https://github.com/MinhAnh99/PBI_Superstore-Sales/assets/74374068/cce78ab6-cf3e-4341-8f2e-0f2f1aae001b)
+
