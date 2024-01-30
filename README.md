@@ -15,7 +15,7 @@ Table 2: People: Information of Sales person
 
 Table 3: Returns: Information of Returned orders.
 
-###2. Data dictionary
+### 2. Data dictionary
 - Dimension: Customer ID, Location, Market, Item Category, Order date, Shipping date, Return 
 - Measure: Sales, Profit, Number of item, shipping cost
 
