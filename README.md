@@ -36,7 +36,10 @@ Dataset stores sales information of some products of a company worldwide, includ
 ![Screenshot 2024-01-30 210325](https://github.com/MinhAnh99/PBI_Superstore-Sales/assets/74374068/e7dd953b-1399-4e9e-8ab9-e48f9adcec81)
 
 ## III. Building dashboard
+### 1. Overview
 ![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/00ec9015-9db9-4cd5-ba89-94e1b3cf7990)
+
+### 2. Sales
 
 
 
