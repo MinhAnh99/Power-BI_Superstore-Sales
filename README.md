@@ -53,8 +53,4 @@ Top 3 primary revenue-generating markets
 
 ## IV. Insights
 - From 2011 until the end of 2014, sales generally increased at a compound annual growth rate (CAGR) of 19.01%. However, sales generally rises year over year over all categories until the fourth quarter, at which point it falls suddenly in the first quarter of the next year.
---Over the past four years, the gross profit margin remained stable at 11%.
---Order value does not change significantly over time, however the quantity of orders increases greatly (1.7 times in 2014), which leads to a general upward trend in revenue for the whole company.
---Return orders tend to increase significantly over time, with the average value being 1.3 times that of successful orders. Focus on markets such as APAC (32%), the US (22%), the EU (25%), and Latin America (20%).
---The B2C customers group provides the most revenue for the organization (51%), followed by Corporate (30%) and Home Office. However, in recent years, revenue from this group has declined slightly. The revenue structure in 2014 shows that the Home Office customer group tends to increase.
 
