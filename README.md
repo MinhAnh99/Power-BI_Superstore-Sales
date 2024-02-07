@@ -41,5 +41,7 @@ Dataset stores sales information of some products of a company worldwide, includ
 
 ### 2. Sales
 
+## IV. Insights
+From 2011 until the end of 2014, sales generally increased at a compound annual growth rate (CAGR) of 17.46%. However, sales generally rises year over year over all categories until the fourth quarter, at which point it falls suddenly in the first quarter of the next year.
 
 
