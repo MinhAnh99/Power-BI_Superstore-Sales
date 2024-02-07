@@ -49,8 +49,15 @@ Top 3 primary revenue-generating markets
 ![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/5c3ef06e-70ab-418e-97c3-58acb97babff)
 
 ### 3. Product
-
+The company's products are all seasonal, with sales growing greatly nearly the end of the year.
 
 ## IV. Insights
 - From 2011 until the end of 2014, sales generally increased at a compound annual growth rate (CAGR) of 19.01%. However, sales generally rises year over year over all categories until the fourth quarter, at which point it falls suddenly in the first quarter of the next year.
+
+ 	
+## V. Recommendations
+- Find an effective business development plan by researching why revenue frequently decreases at the beginning of the year.
+- Continue to promote business strategies in major markets like APAC and the EU, while also growing and exploring development methods for future areas with strong CAGRs like Canada and Africa. This is a massive market in the United States, but it also has a large amount of inertia. As a result, a new business plan is needed to promote revenue growth.
+- Promote marketing activities in the third and fourth quarters of every year, focusing on potential products (low sales but high profit margin) such as Accessories, Art, Papers, Evelopes, in addition to products in the Phones, Bookcases, Copier, and Chair is inherently the company's strength.
+- Promote upselling and cross-selling to boost order value.
 
