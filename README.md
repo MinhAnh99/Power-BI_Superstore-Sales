@@ -39,7 +39,6 @@ Dataset stores sales information of some products of a company worldwide, includ
 ### 1. Overview
 ![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/00ec9015-9db9-4cd5-ba89-94e1b3cf7990)
 
-### 2. Sales
 
 ## IV. Insights
 From 2011 until the end of 2014, sales generally increased at a compound annual growth rate (CAGR) of 17.46%. However, sales generally rises year over year over all categories until the fourth quarter, at which point it falls suddenly in the first quarter of the next year.
