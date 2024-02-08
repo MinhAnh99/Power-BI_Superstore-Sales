@@ -41,11 +41,11 @@ Dataset stores sales information of some products of a company worldwide, includ
 
 ### 2. Market
 The top three revenue-generating markets are APAC (1.78 million), the EU (1.36 million), and the United States (1.11 million). In general marketplaces, the proportions of the three industries are approximately equal, but technology industry continue to account for the biggest amount.
-- APAC 
+- APAC (1.78 million)
 ![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/1d756ff7-04e2-423d-b639-46aa9e364419)
-- EU 
+- EU (1.36 million)
 ![eu](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/702f4ed2-1448-424e-b46e-0cb510062cbf)
-- US
+- US (1.11 million)
 ![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/5c3ef06e-70ab-418e-97c3-58acb97babff)
 
 ### 3. Product
