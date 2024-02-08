@@ -63,6 +63,9 @@ The top three revenue-generating markets are APAC (1.78 million), the EU (1.36 m
   ![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/e627a14e-966c-4e83-a66e-4f380dd43aff)
 
 - The following sub-categories have the highest profit margins: paper (24.66%), labels (19.63%), envelopes (17.57%), accessories (17.95%), and copiers (16.58%). However, only Copier and Accessories provide significant revenue. The remaining products are all included in a group of five with the lowest revenue in the company.
+- Particularly, Tables is a product that has a negative profit margin (7.09%) although having an acceptable revenue (401K).
+- ![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/220703ac-b60e-4199-9eb8-88295a7d13e6)
+
 
 ## IV. Insights
 - From 2011 until the end of 2014, sales generally increased at a compound annual growth rate (CAGR) of 19.01%. However, sales generally rises year over year over all categories until the fourth quarter, at which point it falls suddenly in the first quarter of the next year.
