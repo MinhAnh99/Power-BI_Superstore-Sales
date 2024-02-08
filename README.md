@@ -53,7 +53,8 @@ The company's products are all seasonal, with sales growing greatly nearly the e
 
 ## IV. Insights
 - From 2011 until the end of 2014, sales generally increased at a compound annual growth rate (CAGR) of 19.01%. However, sales generally rises year over year over all categories until the fourth quarter, at which point it falls suddenly in the first quarter of the next year.
-
+- Over the past four years, the gross profit margin remained stable at 11%.
+- The B2C customers group provides the most revenue for the organization (48%), followed by Corporate (33%) and Home Office (17%). However, in recent years, revenue from this group has declined slightly. The revenue structure in 2014 shows that the Home Office customer group tends to increase.
  	
 ## V. Recommendations
 - Find an effective business development plan by researching why revenue frequently decreases at the beginning of the year.
