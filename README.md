@@ -54,7 +54,12 @@ The top three revenue-generating markets are APAC (1.78 million), the EU (1.36 m
 - The EMEA market has the highest compound annual growth rate (CAGR) (21.38%), followed by APAC and EU (19.01%). Although the United States is one of three key markets, its growth rate is the slowest, at around 10%.
 - 
 ### 3. Product
-The company's products are all seasonal, with sales growing greatly nearly the end of the year.
+- The company's products are all seasonal, with sales growing greatly nearly the end of the year.
+- The Office Supplies and Technology industry has the highest Gross Profit Margin (14.03% and 13.97%), which is nearly double the Furniture industry's margin of 6.76%.
+- The following sub-category products make the most revenue: phones (0.83 million), copiers (0.72 million), chairs (0.75 million), and bookcases (0.69 million).
+![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/63e48798-2075-498a-aed0-859dc7536ca6)
+
+![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/e627a14e-966c-4e83-a66e-4f380dd43aff)
 
 ## IV. Insights
 - From 2011 until the end of 2014, sales generally increased at a compound annual growth rate (CAGR) of 19.01%. However, sales generally rises year over year over all categories until the fourth quarter, at which point it falls suddenly in the first quarter of the next year.
