@@ -52,7 +52,7 @@ The top three revenue-generating markets are APAC (1.78 million), the EU (1.36 m
 
 
 - The EMEA market has the highest compound annual growth rate (CAGR) (21.38%), followed by APAC and EU (19.01%). Although the United States is one of three key markets, its growth rate is the slowest, at around 10%.
-- 
+
 ### 3. Product
 - The company's products are all seasonal, with sales growing greatly nearly the end of the year.
 - The Office Supplies and Technology industry has the highest Gross Profit Margin (14.03% and 13.97%), which is nearly double the Furniture industry's margin of 6.76%.
