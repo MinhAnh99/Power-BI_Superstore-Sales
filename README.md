@@ -48,6 +48,8 @@ The top three revenue-generating markets are APAC (1.78 million), the EU (1.36 m
 - US (1.11 million)
 ![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/5c3ef06e-70ab-418e-97c3-58acb97babff)
 
+- The EMEA market has the highest compound annual growth rate (CAGR) (21.38%), followed by APAC and EU (19.01%). Although the United States is one of three key markets, its growth rate is the slowest, at around 10%.
+- 
 ### 3. Product
 The company's products are all seasonal, with sales growing greatly nearly the end of the year.
 
