@@ -57,10 +57,9 @@ The top three revenue-generating markets are APAC (1.78 million), the EU (1.36 m
 - The company's products are all seasonal, with sales growing greatly nearly the end of the year.
 - The Office Supplies and Technology industry has the highest Gross Profit Margin (14.03% and 13.97%), which is nearly double the Furniture industry's margin of 6.76%.
 - The following sub-category products make the most revenue: phones (0.83 million), copiers (0.72 million), chairs (0.75 million), and bookcases (0.69 million).
+  ![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/63e48798-2075-498a-aed0-859dc7536ca6)
 
-![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/63e48798-2075-498a-aed0-859dc7536ca6)
-
-![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/e627a14e-966c-4e83-a66e-4f380dd43aff)
+  ![image](https://github.com/MinhAnh99/Power-BI_Superstore-Sales/assets/74374068/e627a14e-966c-4e83-a66e-4f380dd43aff)
 
 - The following sub-categories have the highest profit margins: paper (24.66%), labels (19.63%), envelopes (17.57%), accessories (17.95%), and copiers (16.58%). However, only Copier and Accessories provide significant revenue. The remaining products are all included in a group of five with the lowest revenue in the company.
 
